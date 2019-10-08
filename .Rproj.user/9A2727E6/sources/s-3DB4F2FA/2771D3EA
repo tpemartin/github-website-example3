@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3204295024",
+    "hash" : "0",
     "id" : "2771D3EA",
     "lastKnownWriteTime" : 1570509489,
     "last_content_update" : 1570509489,
     "path" : "~/Desktop/GitHub/github-website-example3/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
+        "cursorPosition" : "3,7",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
