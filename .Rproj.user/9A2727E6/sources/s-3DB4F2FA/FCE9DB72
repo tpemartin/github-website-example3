@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570509681191.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "656613741",
+    "id" : "FCE9DB72",
+    "lastKnownWriteTime" : 1570509762,
+    "last_content_update" : 1570509762017,
+    "path" : "~/Desktop/GitHub/github-website-example3/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
