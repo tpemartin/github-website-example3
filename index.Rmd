@@ -7,3 +7,7 @@ Hello, Website!
 For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
 
 Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+
+<div class="line-it-button" data-lang="en" data-type="share-a" data-ver="3" data-url="https://tpemartin.github.io/github-website-example3/" data-color="default" data-size="small" data-count="false" style="display: none;"></div>
+ <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+ <div class="fb-share-button" data-href="https://tpemartin.github.io/github-website-example3/" data-layout="button" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftpemartin.github.io%2Fgithub-website-example3%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
