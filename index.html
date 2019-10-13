@@ -308,6 +308,24 @@ $(document).ready(function () {
 </div>
 
 
+<p>Copyright &copy; 2016 Skynet, Inc. All rights reserved.</p>
+
+<form name="submit-to-google-sheet">
+  <input name="email" type="email" placeholder="訂閱最新消息請留email" required>
+  <button type="submit">送出</button>
+</form>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbzM2JghSt3VDQUlsCIQZaIyEOHK_mVaD0oI1nb2DYnGkQIKi20/exec'
+  const form = document.forms['submit-to-google-sheet']
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(response => console.log('Success!', response))
+      .catch(error => console.error('Error!', error.message))
+  })
+</script>
+
 
 
 </div>

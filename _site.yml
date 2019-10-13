@@ -11,3 +11,4 @@ output:
   html_document:
     include:
       before_body: before_body/fb.html
+      after_body: after_body/footer.html
