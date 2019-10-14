@@ -1,13 +1,7 @@
----
-title: "關於"
----
 
-```{css, echo=F}
 h1.title {
     font-size: 38px;
     /* align-content: center; */
     text-align: center;
 }
-```
 
-More about this website.
